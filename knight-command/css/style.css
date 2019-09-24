@@ -1,0 +1,33 @@
+
+
+h1 {
+    font-family: 'Cormorant Infant', serif;
+}
+
+h2 {
+    font-family: 'Cormorant Infant', serif;
+}
+
+h3 {
+    font-family: 'Cormorant Infant', serif;
+}
+
+p {
+    font-family: 'Maven Pro', sans-serif;
+    font-size: small
+}
+
+.subheading {
+    font-family: 'Maven Pro', sans-serif;
+    font-size: smaller
+}
+
+/*
+font-family: 'Crimson Text', serif;
+font-family: 'Cormorant Infant', serif;
+font-family: 'Balthazar', serif;
+font-family: 'Aref Ruqaa', serif;
+font-family: 'Spectral SC', serif;
+font-family: 'IM Fell English', serif;
+font-family: 'Maven Pro', sans-serif;
+*/
